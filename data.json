@@ -1,63 +1,64 @@
-{[
-   "products": {
-        "id": 1,
-        "name": "T-SHIRT",
-        "image": "https://example.com/img/men1.jpg",
-        "price": 52,
-        "quantity": 1,
-        "trending": true,
-        "color": "white",
-        "size": "XS"
-    },
-    {
-        "id": 2,
-        "name": "туфли",
-        "image": "https://example.com/img/gerla.jpg",
-        "price": 99,
-        "quantity": 1,
-        "trending": false,
-        "color": "white",
-        "size": "XS"
-    },
-    {
-        "id": 3,
-        "name": "шорты",
-        "image": "https://example.com/img/menr.jpg",
-        "price": 33,
-        "quantity": 1,
-        "trending": true,
-        "color": "white",
-        "size": "M"
-    },
 {
-        "id": 4,
-        "name": "брюки",
-        "image": "https://example.com/img/menr.jpg",
-        "price": 40,
-        "quantity": 1,
-        "trending": true,
-        "color": "white",
-        "size": "M"
-    },
-{
-        "id": 5,
-        "name": "пиджак",
-        "image": "https://example.com/img/menr.jpg",
-        "price": 80,
-        "quantity": 1,
-        "trending": true,
-        "color": "white",
-        "size": "M"
-    },
-{
-        "id": 6,
-        "name": "блуза",
-        "image": "https://example.com/img/menr.jpg",
-        "price": 35,
-        "quantity": 1,
-        "trending": true,
-        "color": "white",
-        "size": "M"
-    },
-]
+    "products": [
+        {
+            "id": 1,
+            "name": "T-SHIRT",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/men1.jpg",
+            "price": 52,
+            "quantity": 1,
+            "trending": true,
+            "color": "white",
+            "size": "XS"
+        },
+        {
+            "id": 2,
+            "name": "туфли",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/gerla.jpg",
+            "price": 99,
+            "quantity": 1,
+            "trending": false,
+            "color": "white",
+            "size": "XS"
+        },
+        {
+            "id": 3,
+            "name": "шорты",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/menr.jpg",
+            "price": 33,
+            "quantity": 1,
+            "trending": true,
+            "color": "white",
+            "size": "M"
+        },
+        {
+            "id": 4,
+            "name": "брюки",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/menll.jpg",
+            "price": 40,
+            "quantity": 1,
+            "trending": true,
+            "color": "white",
+            "size": "M"
+        },
+        {
+            "id": 5,
+            "name": "пиджак",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/womenbot.jpg",
+            "price": 80,
+            "quantity": 1,
+            "trending": true,
+            "color": "white",
+            "size": "M"
+        },
+        {
+            "id": 6,
+            "name": "блуза",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/womenrb.jpg",
+            "price": 35,
+            "quantity": 1,
+            "trending": true,
+            "color": "white",
+            "size": "M"
+        }
+    ]
 }
