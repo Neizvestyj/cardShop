@@ -59,6 +59,16 @@
             "trending": true,
             "color": "white",
             "size": "M"
+        },
+        {
+            "id": 7,
+            "name": "блуза",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/womenrb.jpg",
+            "price": 35,
+            "quantity": 1,
+            "trending": true,
+            "color": "white",
+            "size": "M"
         }
     ]
 }
