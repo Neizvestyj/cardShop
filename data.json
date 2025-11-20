@@ -64,7 +64,17 @@
             "id": 7,
             "name": "Рубаха",
             "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/men8.jpg",
-            "price": 35,
+            "price": 43,
+            "quantity": 1,
+            "trending": true,
+            "color": "white",
+            "size": "M"
+        },
+         {
+            "id": 8,
+            "name": "Рубашка",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/meen6.jpg",
+            "price": 50,
             "quantity": 1,
             "trending": true,
             "color": "white",
