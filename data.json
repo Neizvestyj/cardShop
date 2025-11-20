@@ -109,6 +109,16 @@
             "trending": true,
             "color": "white",
             "size": "M"
+        },
+         {
+            "id": 12,
+            "name": "Куртка",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/men7.jpg",
+            "price": 95,
+            "quantity": 1,
+            "trending": true,
+            "color": "black",
+            "size": "M"
         }
     ]
 }
