@@ -89,6 +89,16 @@
             "trending": true,
             "color": "white",
             "size": "M"
+        },
+         {
+            "id": 10,
+            "name": "Футболка",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/men5.jpg",
+            "price": 30,
+            "quantity": 1,
+            "trending": true,
+            "color": "white",
+            "size": "M"
         }
     ]
 }
