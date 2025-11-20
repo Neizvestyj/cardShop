@@ -99,6 +99,16 @@
             "trending": true,
             "color": "white",
             "size": "M"
+        },
+         {
+            "id": 11,
+            "name": "Кепка",
+            "image": "https://raw.githubusercontent.com/Neizvestyj/cardShop/master/men6.jpg",
+            "price": 20,
+            "quantity": 1,
+            "trending": true,
+            "color": "white",
+            "size": "M"
         }
     ]
 }
